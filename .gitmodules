@@ -1,0 +1,6 @@
+[submodule "IptvFFmpeg"]
+	path = IptvFFmpeg
+	url = https://github.com/obsqrbtz/IptvFFmpeg.git
+[submodule "IptvApp"]
+	path = IptvApp
+	url = https://github.com/obsqrbtz/IptvApp.git
